@@ -248,4 +248,13 @@ max-width: 50%;
 max-width: 50%;
     }
 }
+.left_bottom_image_div
+{
+ max-width: 30%; 
+}
+.left_bottom_image
+{
+    display: block;
+    width: 100%;
+}
 
